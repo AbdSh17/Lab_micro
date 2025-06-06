@@ -6,5 +6,4 @@ a repo that contains all you need about micro_lab **ENCS4110**
 
 ## What-to-expect ?
 - Lab manual
-- Lab manual and registers summary
-- some codes
+- registers summary
